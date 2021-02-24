@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alameen azad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alameen azad" height="30" width="40" /></a>
-<a href="https://fb.com/alameen azad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alameen azad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alameen-azad-4a4428116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alameen azad" height="30" width="40" /></a>
+<a href="https://fb.com/Alameen.A.Jasim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alameen azad" height="30" width="40" /></a>
 <a href="https://instagram.com/alameen_azad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alameen_azad" height="30" width="40" /></a>
 </p>
 
