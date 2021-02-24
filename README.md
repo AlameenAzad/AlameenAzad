@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Alameen Azad</h1>
 <h3>A Lead Developer @ Moonline Travel LTD.</h3>
 
-- 🔭 I’m currently working on [Rebuilding Booking Advisors with VUE & Quasar](https://www.bookingadvisors.conm)
+- 🔭 I’m currently working on [Rebuilding Booking Advisors with VUE & Quasar](https://www.bookingadvisors.com)
 
 - 🌱 I’m currently learning **Flutter**
 
