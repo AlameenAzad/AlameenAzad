@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alameen Azad</h1>
-<h3 align="center">A Lead Developer at Moonline Travel LTD.</h3>
+<h1>Hi 👋, I'm Alameen Azad</h1>
+<h3>A Lead Developer at Moonline Travel LTD.</h3>
 
 - 🔭 I’m currently working on [Rebuilding Booking Advisors with VUE & Quasar](bookingadvisors.conm)
 
