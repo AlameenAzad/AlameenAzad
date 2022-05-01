@@ -1,11 +1,7 @@
 <h1>Hi 👋, I'm Alameen Azad</h1>
 <h3>A Lead Developer @ Moonline Travel LTD.</h3>
 
-- 💻 Currently leading an expanding team of 6 developers @ [Moonline Travel LTD.](https://www.moonlinetravel.com/)
-
-- 🔭 I’m currently working on [Rebuilding Booking Advisors with VUE & Quasar](https://www.bookingadvisors.com)
-
-- 🌱 I’m currently learning **React**
+- 💻 Currently leading an expanding team of 6 developers @[Moonline Travel LTD.](https://www.moonlinetravel.com/)
 
 - 📫 How to reach me **alameen.azad@pm.me**
 
