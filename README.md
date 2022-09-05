@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Alameen Azad</h1>
-<h3>A Lead Developer @ Moonline Travel LTD.</h3>
-
-- 💻 Currently leading an expanding team of 6 developers @[Moonline Travel LTD.](https://www.moonlinetravel.com/)
+<h3>A Team Lead & SR. Full-Stack Developer @ Krusche & Copmany.</h3>
 
 - Looking to hire developers! If you live in Suly, let's talk.
 
