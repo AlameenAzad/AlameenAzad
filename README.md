@@ -7,10 +7,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=480&lines=Building+things+that+matter;Leading+teams+with+impact; Clean+code+%7C+Cloud+scaling+%7C+Team+growth" alt="Typing SVG" />
-</p>
-
 ---
 
 I’m a passionate **Full-Stack Engineer** who enjoys transforming complex ideas into fast, scalable, and maintainable products.  
