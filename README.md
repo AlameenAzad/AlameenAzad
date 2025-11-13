@@ -1,16 +1,51 @@
-<h1>Hi 👋, I'm Alameen Azad</h1>
-<h3>A Team Lead & SR. Full-Stack Developer @ Krusche & Copmany.</h3>
+<div align="center">
+  
+# 👋 Hi, I’m Alameen Azad  
+### Team Lead & Senior Full-Stack Engineer at [Krusche & Company](https://www.kruschecompany.com)
 
-- Looking to hire developers! If you live in Suly, let's talk.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alameen%20Azad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alameen-azad/)
 
-- 📫 How to reach me **alameen.azad@pm.me**
+</div>
 
-Stack: VUEJS / NODEJS / MYSQL / APACHE / NGINX
-
-Skills: QUASAR / VUETIFY / ELEMENT UI / ANDROID(CORDOVA) / SQLITE / JS / STRAPI / PHP / JQUERY / HTML / CSS / SCSS / BOOSTRAP / GITHUB / REST API / 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alameen-azad-4a4428116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/linkedin.svg" alt="alameen azad" height="30" width="40" /></a>
-<a href="https://fb.com/Alameen.A.Jasim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/facebook.svg" alt="alameen azad" height="30" width="40" /></a>
-<a href="https://instagram.com/alameen_azad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/instagram.svg" alt="alameen_azad" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=480&lines=Building+things+that+matter;Leading+teams+with+impact; Clean+code+%7C+Cloud+scaling+%7C+Team+growth" alt="Typing SVG" />
 </p>
+
+---
+
+I’m a passionate **Full-Stack Engineer** who enjoys transforming complex ideas into fast, scalable, and maintainable products.  
+With years of hands-on experience leading small teams and shipping production-grade systems, I focus on building things that **work reliably and scale effortlessly**.
+
+### 💡 What I Do
+- 🧭 Lead and mentor teams to deliver clean, maintainable codebases  
+- ⚙️ Architect and implement full-stack solutions using **Node.js (TypeScript)**, **Vue 3**, **Quasar**, and **Strapi**  
+- ☁️ Deploy, scale, and monitor apps on **AWS** (Lambda, EC2, S3)  
+- 🗃️ Design efficient data layers with **PostgreSQL** and **Sequelize**
+
+### 🧰 Core Technologies
+| Backend | Frontend | DevOps | Database |
+|----------|-----------|--------|-----------|
+| Node.js | Vue 3 | AWS (Lambda, EC2, S3) | PostgreSQL |
+| Strapi | Quasar | Docker | Sequelize |
+
+---
+
+### 🌱 Currently
+- Leading development projects and mentoring engineers  
+- Improving deployment pipelines and system architecture for faster releases and higher reliability. 
+- Exploring better ways to scale products in cloud environments  
+- Helping teams grow through better tooling and communication  
+
+---
+
+### 🤝 Connect
+📫 [LinkedIn](https://www.linkedin.com/in/alameen-azad/)  
+💬 Open to collaboration, technical leadership opportunities, or simply exchanging ideas.
+
+---
+
+<div align="center">
+  
+⭐️ *“Clean architecture, strong teams, and consistent delivery — that’s where great software begins.”*
+
+</div>
